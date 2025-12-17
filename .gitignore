@@ -1,0 +1,15 @@
+# Django
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+
+# Media uploads (DO NOT COMMIT)
+media/
+
+# Static files
+staticfiles/
+
+# Virtual environments
+venv/
+env/
